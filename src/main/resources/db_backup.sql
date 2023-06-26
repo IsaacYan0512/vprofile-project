@@ -2,7 +2,7 @@
 --
 -- Host: localhost    Database: accounts
 -- ------------------------------------------------------
--- Server version	5.7.18-0ubuntu0.16.10.1
+-- Server version 5.7.18-0ubuntu0.16.10.1
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
